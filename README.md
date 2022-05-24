@@ -1,2 +1,2 @@
 # Web3LotteryContract
-A lottery system system built with Solidity
+A lottery system built with Solidity
